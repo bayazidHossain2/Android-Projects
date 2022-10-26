@@ -1,7 +1,5 @@
 <div align="center">
 
-[![][logo-url]][docs-url]
-
 **This is a test project. while i first fime use online and ofline database.
 And i try to make a platform where the android app can use online and offline. 
 Offline data will be stored into a offline database and there will be a option. 
@@ -10,8 +8,6 @@ Further we can push our data to online.**
 [ [See all code here.](https://github.com/bayazidHossain2/Android-Projects/tree/main/app/src/main/java/com/example/quote) ]
 
 </div>
-
-[![][banner-url]][docs-url]
 
 ## 🌼 Features
 
